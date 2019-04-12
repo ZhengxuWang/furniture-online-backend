@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: zhengxuwang
+Build-Jdk: 9.0.4
+Implementation-Title: shop
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mercury
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/shop
+Created-By: Maven Integration for Eclipse
+
